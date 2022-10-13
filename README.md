@@ -1,3 +1,4 @@
+# Testing GIT-HUB_13.10.2022
 # stepik_learn_QA
 # Обучение по QA
 # Обновление Stepik vv
